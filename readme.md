@@ -1,5 +1,5 @@
 To run the Python Minesweeper game, follow these steps: 
-1. Run the code by clicking on the "Run" button 
+1. Run the code by double clicking the only python file
 2. The game will start with a title screen displaying different options. 
 3. Choose the game mode by entering "1" for classical or "2" for blind mode. 
 4. Choose the game difficulty by entering a number from 1 to 5 or 15. 
