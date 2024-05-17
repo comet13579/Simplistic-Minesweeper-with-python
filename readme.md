@@ -1,4 +1,4 @@
-#ENGG1330 Project -- Minesweeper
+# ENGG1330 Project -- Minesweeper
 To run the Python Minesweeper game, follow these steps: 
 1. Run the code by double clicking the only python file
 2. The game will start with a title screen displaying different options. 
